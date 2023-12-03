@@ -1,9 +1,9 @@
 # QSORT_CILK
 ## Результаты
-par qsort: 14892
+par qsort: 14892 (ms)
 
 
-seq qsort: 45657
+seq qsort: 45657 (ms)
 
 
 acceleration: 3.06587x
